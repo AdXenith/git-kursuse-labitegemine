@@ -5,7 +5,7 @@ Tuesday:
  - 09:00 - 17:00 Work
 Wednesday:
  - 08:00 - 10:30 Networking Basics
- - 12:00 - 13:30 Electronics 101
+ - 12:00 - 13:30 Lunch
 Thursday:
  - 09:00 - 17;00 Work
 Friday:
