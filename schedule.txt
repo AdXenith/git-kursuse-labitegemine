@@ -1,0 +1,16 @@
+Monday:
+ - 14:00 - 15:30 Electronics 101
+ - 16:00 - 19:00 Programming in C
+Tuesday:
+ - 09:00 - 17:00 Work
+Wednesday:
+ - 08:00 - 10:30 Networking Basics
+ - 12:00 - 13:30 Electronics 101
+Thursday:
+ - 09:00 - 17;00 Work
+Friday:
+ - 09:00 - 10:30 Networking Basics
+
+---
+
+owo
